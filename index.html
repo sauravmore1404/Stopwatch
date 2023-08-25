@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>stop watch practice</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="rapper">
+      <h1>Stopwatch</h1>
+      <div class="digits">
+        <p id="hrsContainer"></p>
+        <p id="minContainer"></p>
+        <p id="secContainer"></p>
+      </div>
+      <div class="stopWatch">
+        <button id="startButton" onclick="starTimer()">start</button>
+        <button id="stopButton" onclick="stopTimer()">stop</button>
+        <button id="resetButton" onclick="doublefunction()">reset</button>
+        <button id="capureButton" onclick="capture()">capture</button>
+      </div>
+    </div>
+    <div class="captureRapper">
+      <h3>Capture values</h3>
+      <p id="captureContainer"></p>
+    </div>
+    <script src="./script.js"></script>
+  </body>
