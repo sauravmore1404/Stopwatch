@@ -25,7 +25,7 @@ button {
 }
 button:hover {
   cursor: pointer;
-  background-color: rgb(108, 236, 108);
+  background-color: rgba(0, 233, 0, 0.951);
   box-shadow: 1px 1px 5px rgb(76, 255, 76);
 }
 div.digits {
