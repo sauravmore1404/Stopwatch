@@ -25,8 +25,8 @@ button {
 }
 button:hover {
   cursor: pointer;
-  background-color: rgba(0, 233, 0, 0.951);
-  box-shadow: 1px 1px 5px rgb(76, 255, 76);
+  background-color: rgba(92, 234, 92, 0.951);
+  box-shadow: 2px 2px 7px rgb(98, 98, 98);
 }
 div.digits {
   display: flex;
