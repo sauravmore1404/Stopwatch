@@ -22,10 +22,11 @@ button {
   border-radius: 50px;
   border: none;
   background-color: rgb(199, 251, 251);
+  font-weight: bolder;
 }
 button:hover {
   cursor: pointer;
-  background-color: rgba(92, 234, 92, 0.951);
+  background-color: rgba(96, 236, 96, 0.951);
   box-shadow: 2px 2px 7px rgb(98, 98, 98);
 }
 div.digits {
